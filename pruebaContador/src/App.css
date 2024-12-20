@@ -1,0 +1,25 @@
+#root {
+  max-width: 1920px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+.card {
+  padding: 2em;
+}
+div.contenido{
+  background-color: white;
+  padding: 20px;
+  margin: 10px 10px 0 10px;
+  border-radius: 10px;
+}
+p{
+  font-size: 45px;
+  color: black;
+}
+button{
+  padding: 25px;
+  margin: 10px;
+}
